@@ -1,0 +1,2 @@
+# piida
+pip install beets
